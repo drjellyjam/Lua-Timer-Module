@@ -1,5 +1,6 @@
 # Lua-Timer-Module
 A simple module for handling timers, i was sick of doing the "if a &lt;= 0 then" so i wrote a module that does it all for me.
+Yes i know its not really the best method and you can probably find something better but for what it is. Its easy to understand and isint really slow at all so whatevs.
 
 # implementation:
 
